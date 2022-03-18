@@ -1,0 +1,3 @@
+-i ADVAPI32.dll!RegGetValueW
+-i KERNEL32.dll!GetVolumeInformationW
+-i IPHLPAPI.DLL!GetAdaptersInfo
